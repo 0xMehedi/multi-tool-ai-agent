@@ -200,6 +200,4 @@ multi-tool-ai-agent/
 - More sophisticated SQL validation with AST parsing
 - Support for multiple LLM providers (OpenAI, Anthropic, etc.)
 
-## License
 
-MIT License - see the [LICENSE](LICENSE) file for details.
